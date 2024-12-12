@@ -118,7 +118,7 @@ POST http://localhost:8080/quiz/answer?sessionId=550e8400-e29b-41d4-a716-4466554
 
 ## Database Schema
 
-### `question`  ###  Table
+### `question`  Table
 
 | Column | Type     | Description                |
 | :-------- | :------- | :------------------------- |
